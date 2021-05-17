@@ -5,7 +5,7 @@ pipeline {
       
     stage('Git') {
       steps {
-        echo 'hi12'
+        echo 'hi124444'
         git 'https://github.com/johnpapa/node-hello.git'
       }
     }
